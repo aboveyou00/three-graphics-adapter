@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@aboveyou00/html5-game-engine@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@aboveyou00/html5-game-engine/-/html5-game-engine-0.2.2.tgz#9d17c91de7e7f1371752c53606f400e752d9ea57"
+  dependencies:
+    lodash.merge "^4.6.0"
+
 "@types/chai-as-promised@^0.0.30":
   version "0.0.30"
   resolved "https://registry.yarnpkg.com/@types/chai-as-promised/-/chai-as-promised-0.0.30.tgz#2341321cc796c6c3544a949a063e7609a222f303"
@@ -920,6 +926,10 @@ lodash.keys@^3.0.0:
     lodash._getnative "^3.0.0"
     lodash.isarguments "^3.0.0"
     lodash.isarray "^3.0.0"
+
+lodash.merge@^4.6.0:
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.1.tgz#adc25d9cb99b9391c59624f379fbba60d7111d54"
 
 lodash.restparam@^3.0.0:
   version "3.6.1"

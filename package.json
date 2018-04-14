@@ -37,6 +37,9 @@
         "tslint": "^4.5.1",
         "typescript": "^2.6.2"
     },
+    "dependencies": {
+        "@aboveyou00/html5-game-engine": "^0.2.2"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/aboveyou00/three-graphics-adapter.git"
